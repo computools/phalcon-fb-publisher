@@ -1,0 +1,9 @@
+{
+    "require": {
+        "dmkit/phalcon-jwt-auth": "^1.0",
+        "robmorgan/phinx": "^0.9.2",
+        "vlucas/phpdotenv": "^2.4",
+        "league/fractal": "^0.17.0",
+        "facebook/graph-sdk": "^5.6"
+    }
+}
